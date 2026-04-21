@@ -8,7 +8,7 @@ Artificial Intelligence student at Imam Abdulrahman Bin Faisal University.
 
    • Always learning and improving
 
-# Skills
+# Technical Skills
 
    • Python
 
