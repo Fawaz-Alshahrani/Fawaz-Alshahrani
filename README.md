@@ -1,21 +1,21 @@
 I'm Fawaz Alshahrani
 
-Artificial Intelligence student at IAU.
+Artificial Intelligence student at Imam Abdulrahman Bin Faisal University.
 
-    • Interested in AI and Machine Learning
+   • Interested in AI and Machine Learning
+ 
+   • Programming Languages
 
-  • Programming Languages
-
-  • Always learning and improving
+   • Always learning and improving
 
 # Skills
 
-  • Python
+   • Python
 
-  • Linux Shell Scripting
+   • Linux Shell Scripting
 
-  • Machine Learning
+   • Machine Learning
 
-  • Computer Vision
+   • Computer Vision
 
-  • Data Analysis
+   • Data Analysis
