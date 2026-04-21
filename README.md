@@ -2,7 +2,7 @@ I'm Fawaz Alshahrani
 
 Artificial Intelligence student at IAU.
 
-  • Interested in AI and Machine Learning
+    • Interested in AI and Machine Learning
 
   • Programming Languages
 
